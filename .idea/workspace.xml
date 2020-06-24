@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1301c71a-874a-48f0-ab65-13f6c4ffcc5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1XhPrb2BbKevzE2Sm9Oy6Hd5m2z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1301c71a-874a-48f0-ab65-13f6c4ffcc5a" name="Default Changelist" comment="" />
+      <created>1581495552841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581495552841</updated>
+      <workItem from="1581495554805" duration="30191000" />
+      <workItem from="1581772660785" duration="23138000" />
+      <workItem from="1582087343353" duration="46000" />
+      <workItem from="1582087554393" duration="28611000" />
+      <workItem from="1582347799137" duration="7651000" />
+      <workItem from="1582364631783" duration="48242000" />
+      <workItem from="1582626517295" duration="13889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="23" key="#CLI_Interpreters" timestamp="1581505527334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="23" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1581505527334" />
+    <state x="406" y="0" key="#PHP" timestamp="1581505537802">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1581505537802" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1581505510381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581505510381" />
+    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1582784423551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582784423551" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1582626518922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582626518922" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582785496791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582785496791" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582449977203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582449977203" />
+    <state x="405" y="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581924195209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1581924195209" />
+  </component>
+</project>
